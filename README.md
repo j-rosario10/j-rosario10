@@ -1,6 +1,6 @@
 👋 Hi, I’m Jude Rosario
 
-Mechatronics Engineering Student | Mechanical–Software Systems | Automation & Robotics
+Mechatronics Engineering Student | Mechanical-Software Systems | Automation & Robotics
 
 I build integrated mechanical, electrical, and software systems, with experience spanning CAD-driven design, embedded control, simulation, and manufacturing automation. My projects focus on turning concepts into functional, testable hardware supported by clean code and data-driven design decisions.
 
