@@ -1,7 +1,7 @@
 <!-- ================= HERO HEADER ================= -->
 
 <h1 align="center" style="font-weight:700; letter-spacing:1px;">
-  Hi, I’m Jude Rosario
+  👋 Hi, I’m Jude Rosario
 </h1>
 
 <p align="center" style="font-size:15px;">
@@ -93,10 +93,10 @@ CAD-driven mechanical design, embedded control, and software dashboards or data 
 </h2>
 <div style="height:1px; background:#2f2f2f; width:100%; margin:8px 0 16px 0;"></div>
 
-- <b>BMW M2 RC Car</b> — ESP32 motor control, SolidWorks chassis, FEA validation, web-based dashboard, obstacle detection  
-- <b>Quadcopter Drone</b> — SolidWorks CAD assembly and CFD-driven aerodynamic analysis  
-- <b>Prusa i3 MK3S Automation</b> — custom ramp, purge bin, and stabilizers designed with tight tolerances for unattended production  
-- <b>Autonomous Colour-Sorting Robot</b> — coordinate file–based waypoint navigation with multi-sensor control logic  
+- <b>BMW M2 RC Car</b> - ESP32 motor control, SolidWorks chassis, FEA validation, web-based dashboard, obstacle detection  
+- <b>Quadcopter Drone</b> - SolidWorks CAD assembly and CFD-driven aerodynamic analysis  
+- <b>Personal Portfolio</b> - Javascript website hosted in Netlify 
+- <b>Autonomous Colour-Sorting Robot</b> - coordinate file–based waypoint navigation with multi-sensor control logic  
 
 ---
 
@@ -108,9 +108,8 @@ CAD-driven mechanical design, embedded control, and software dashboards or data 
 </h2>
 <div style="height:1px; background:#2f2f2f; width:100%; margin:8px 0 16px 0;"></div>
 
-- <b>LinkedIn:</b> add link  
-- <b>Email:</b> add email  
-- <b>Portfolio:</b> add link  
+- <b>LinkedIn:</b> https://www.linkedin.com/in/jude-rosario1/  
+- <b>Email:</b> jarosari@uwaterloo.ca 
 
 ---
 
