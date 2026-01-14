@@ -1,14 +1,14 @@
 <!-- ================= ABOUT ME ================= -->
 
 <h2>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/engineering/engineering.png" width="28" style="vertical-align: middle;">
+  <img src="https://cdn.simpleicons.org/github/white" width="26" />
   <span style="font-weight: 500; letter-spacing: 0.5px;">About Me</span>
 </h2>
 <hr style="border: none; height: 1px; background-color: #2f2f2f;">
 
-Hi, I’m <b>Jude Rosario</b>, a <b>Mechatronics Engineering student</b> with a strong interest in
+Hi, I’m <b>Jude Rosario</b>, a <b>Mechatronics Engineering student</b> focused on
 <b>integrated hardware–software systems, automation, and robotics</b>.
-I focus on building <b>functional, production-ready systems</b> through
+I design and build <b>functional, production-ready systems</b> spanning
 mechanical design, embedded control, and software integration.
 
 ---
@@ -16,7 +16,7 @@ mechanical design, embedded control, and software integration.
 <!-- ================= TECHNICAL FOCUS ================= -->
 
 <h2>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/robotics/robotics.png" width="28" style="vertical-align: middle;">
+  <img src="https://cdn.simpleicons.org/robotframework/white" width="26" />
   <span style="font-weight: 500; letter-spacing: 0.5px;">Technical Focus</span>
 </h2>
 <hr style="border: none; height: 1px; background-color: #2f2f2f;">
@@ -61,29 +61,29 @@ mechanical design, embedded control, and software integration.
 <!-- ================= PROJECTS ================= -->
 
 <h2>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cad/cad.png" width="28" style="vertical-align: middle;">
+  <img src="https://cdn.simpleicons.org/solidworks/white" width="26" />
   <span style="font-weight: 500; letter-spacing: 0.5px;">Featured Projects</span>
 </h2>
 <hr style="border: none; height: 1px; background-color: #2f2f2f;">
 
-- **BMW M2 RC Car** - ESP32 motor control, SolidWorks chassis, FEA validation, web-based dashboard  
-- **Quadcopter Drone** - CAD assembly and CFD-driven aerodynamic analysis  
-- **Personal Portfolio** — Javascript website to get to know me  
-- **Autonomous Colour-Sorting Robot** - File-based coordinate navigation with multi-sensor control  
+- **BMW M2 RC Car** — ESP32 motor control, SolidWorks chassis, FEA validation, web-based dashboard  
+- **Quadcopter Drone** — CAD assembly and CFD-driven aerodynamic analysis  
+- **3D Printer Automation** — Prusa i3 MK3S automation parts enabling unattended batch production  
+- **Autonomous Colour-Sorting Robot** — File-based coordinate navigation with multi-sensor control  
 
 ---
 
 <!-- ================= CONTACT ================= -->
 
 <h2>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/contact/contact.png" width="28" style="vertical-align: middle;">
+  <img src="https://cdn.simpleicons.org/gmail/white" width="26" />
   <span style="font-weight: 500; letter-spacing: 0.5px;">Contact</span>
 </h2>
 <hr style="border: none; height: 1px; background-color: #2f2f2f;">
 
-- **LinkedIn:** https://www.linkedin.com/in/jude-rosario1/  
-- **Email:** jarosari@uwaterloo.ca
+- **LinkedIn:** add link  
+- **Email:** add email  
 
 ---
 
-⭐ **Pinned repositories below showcase full documentation, CAD, code, and results.**
+⭐ Pinned repositories below showcase full documentation, CAD, code, and results.
