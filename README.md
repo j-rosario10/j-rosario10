@@ -28,7 +28,7 @@ CAD-driven mechanical design, embedded control, and software dashboards or data 
 <!-- ================= TECHNICAL FOCUS ================= -->
 
 <h2>
-  <img src="assets/icons/tools.svg" width="22" style="vertical-align: middle;" />
+  <img src="assets/icons/tools.png" width="22" style="vertical-align: middle;" />
   <span style="font-weight:600; letter-spacing:0.6px;">Technical Focus</span>
 </h2>
 <div style="height:1px; background:#2f2f2f; width:100%; margin:8px 0 16px 0;"></div>
@@ -88,7 +88,7 @@ CAD-driven mechanical design, embedded control, and software dashboards or data 
 <!-- ================= FEATURED PROJECTS ================= -->
 
 <h2>
-  <img src="assets/icons/telescope.svg" width="22" style="vertical-align: middle;" />
+  <img src="assets/icons/telescope.png" width="22" style="vertical-align: middle;" />
   <span style="font-weight:600; letter-spacing:0.6px;">Featured Projects</span>
 </h2>
 <div style="height:1px; background:#2f2f2f; width:100%; margin:8px 0 16px 0;"></div>
@@ -103,7 +103,7 @@ CAD-driven mechanical design, embedded control, and software dashboards or data 
 <!-- ================= CONNECT ================= -->
 
 <h2>
-  <img src="assets/icons/link.svg" width="22" style="vertical-align: middle;" />
+  <img src="assets/icons/link.png" width="22" style="vertical-align: middle;" />
   <span style="font-weight:600; letter-spacing:0.6px;">Connect With Me</span>
 </h2>
 <div style="height:1px; background:#2f2f2f; width:100%; margin:8px 0 16px 0;"></div>
