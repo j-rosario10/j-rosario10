@@ -19,7 +19,7 @@
 <div style="height:1px; background:#2f2f2f; width:100%; margin:8px 0 16px 0;"></div>
 
 Hi, I’m <b>Jude Rosario</b>, a <b>Mechatronics Engineering student</b> focused on
-<b>integrated hardware–software systems, automation, and robotics</b>.
+<b>integrated hardware-software systems, automation, and robotics</b>.
 I enjoy building <b>production-ready systems</b> that combine
 CAD-driven mechanical design, embedded control, and software dashboards or data analysis.
 
