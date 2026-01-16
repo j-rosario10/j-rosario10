@@ -96,7 +96,7 @@ CAD-driven mechanical design, embedded control, and software dashboards or data 
 - <b>BMW M2 RC Car</b> - ESP32 motor control, SolidWorks chassis, FEA validation, web-based dashboard, obstacle detection  
 - <b>Quadcopter Drone</b> - SolidWorks CAD assembly and CFD-driven aerodynamic analysis  
 - <b>Personal Portfolio</b> - Javascript website hosted in Netlify 
-- <b>Autonomous Colour-Sorting Robot</b> - coordinate file–based waypoint navigation with multi-sensor control logic  
+- <b>Autonomous Colour-Sorting Robot</b> - coordinate file-based waypoint navigation with multi-sensor control logic  
 
 ---
 
